@@ -33,7 +33,6 @@ digital-payments-analytics/
 ├── preprocessing/        # Data cleaning and transformation
 ├── utils/                # Utility functions
 ├── visualization/        # Charts and visualizations
-├── project_report.docx   # Project report
 ├── requirements.txt      # Dependencies
 └── README.md
 ```
